@@ -7,7 +7,7 @@
 # Variables
 DEST=~/Android/Sdk
 
-CMD_LINE_TOOLS="https://dl.google.com/android/repository/commandlinetools-linux-9123335_latest.zip"
+CMD_LINE_TOOLS="https://dl.google.com/android/repository/commandlinetools-linux-10406996_latest.zip"
 
 SDK_TOOLS="https://github.com/Lzhiyong/android-sdk-tools/releases/download/33.0.3/android-sdk-tools-static-aarch64.zip"
 
